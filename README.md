@@ -18,3 +18,16 @@
 
 9. https://github.com/jlapeyre/Symata.jl
 
+10. https://github.com/nteract/nteract
+
+11. https://github.com/mulesoft/api-notebook
+
+12. https://github.com/renkun-ken/formattable
+
+13. https://github.com/ramnathv/htmlwidgets
+
+14. https://github.com/electroly/sqlnotebook
+
+
+
+
