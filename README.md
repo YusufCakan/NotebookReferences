@@ -30,6 +30,10 @@
 
 16. https://github.com/nicolaskruchten/pivottable
 
+17. https://github.com/pkelling/mathViz
+
+18. https://github.com/bolerio/seco
+
 
 
 
