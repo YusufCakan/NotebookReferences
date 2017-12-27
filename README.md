@@ -28,6 +28,8 @@
 
 14. https://github.com/electroly/sqlnotebook
 
+16. https://github.com/nicolaskruchten/pivottable
+
 
 
 
