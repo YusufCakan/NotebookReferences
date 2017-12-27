@@ -10,3 +10,11 @@
 
 5. https://github.com/bluenote10/PandasDataFrameGUI
 
+6. https://github.com/nicolaskruchten/jupyter_pivottablejs
+
+7. https://github.com/smartinsightsfromdata/rpivotTable
+
+8. https://github.com/handsontable/formula.js
+
+9. https://github.com/jlapeyre/Symata.jl
+
