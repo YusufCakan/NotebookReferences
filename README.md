@@ -34,6 +34,18 @@
 
 18. https://github.com/bolerio/seco
 
+19. https://github.com/jupyter/atom-notebook
+
+21. https://github.com/rljacobson/Guru
+
+22. https://github.com/rljacobson/Guru-NB
+
+23. https://github.com/dunovank/jupyter-themes
+
+24 https://github.com/merqurio/jupyter_themes
+
+25 https://github.com/moble/jupyter_boilerplate
+
 
 
 
