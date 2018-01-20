@@ -46,6 +46,14 @@
 
 25 https://github.com/moble/jupyter_boilerplate
 
+26 https://github.com/CommonWealthRobotics/BowlerStudio
+
+27. https://github.com/codenode/codenode/tree/master
+
+28. https://github.com/fperez/IPython-notebook-extensions
+
+
+
 
 
 
