@@ -52,6 +52,17 @@
 
 28. https://github.com/fperez/IPython-notebook-extensions
 
+29. https://github.com/PatMartin/Dex
+
+30. https://github.com/jrowen/rhandsontable
+
+
+
+
+Data paste
+
+1. https://github.com/MilesMcBain/datapasta
+
 
 
 
